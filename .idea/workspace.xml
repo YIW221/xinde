@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eea4d1a9-f79a-46ae-bc9e-8c7f8a94e945" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancy_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancy_loading.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancy_nav_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancy_nav_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancy_shadow_e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancy_shadow_n.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancy_shadow_ne.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancy_shadow_nw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancy_shadow_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancy_shadow_se.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancy_shadow_sw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancy_shadow_w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancy_title_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancy_title_main.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancy_title_over.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancy_title_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancybox-x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancybox-y.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/fancybox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/autocomplete/indicator.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/rating/delete.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/rating/star.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/images/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/images/file.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/images/folder-closed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/images/folder.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/images/minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/images/plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/images/treeview-black-line.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/images/treeview-black.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/images/treeview-default-line.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/images/treeview-default.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/images/treeview-famfamfam-line.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/images/treeview-famfamfam.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/images/treeview-gray-line.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/images/treeview-gray.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/images/treeview-red-line.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/images/treeview-red.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/10_thumb_G_1242973436403(1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/111.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/1240802922410634065.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/1240803062307572427.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/1240803144788047486.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/12_thumb_G_1241965978410.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/13_thumb_G_1241968002527.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/17_thumb_G_1241969394587.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/19_thumb_G_1241970175208.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/1_thumb_G_1240902890710.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/20081027angsif.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/20081027wdwd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/20081027xuorxj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/20_thumb_G_1242106490058.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/21_thumb_G_1242109298150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/222.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/22_thumb_G_1241971076803.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/24_thumb_G_1241971981429.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/32_thumb_G_1242110760196.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/333.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/3_thumb_G_1241422082679.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/8_thumb_G_1241425513488.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/9_G_1241511871574.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/9_P_1241511871575.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/9_thumb_G_1241511871555.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/9_thumb_P_1241511871787.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/NavBg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/alone.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/art_cat_fen.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/art_cat_t.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/biao1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/biao2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/biao3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/biao4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/biao5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/biao6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/biao7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_buy.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_buy_1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_cat.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_coll.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_colles.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_go.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_home.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_log.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_reg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_search.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_sign.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_subOrder.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_subOrder.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_subOrder副本.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_ur_log.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/bnt_ur_reg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/box_2Bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/brandBg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/btn.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/captcha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/car_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/catBg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/category_tit.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/checkout.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/commentsBnt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/compareBg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/compareSub.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/comparebox.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/continue.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/di.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/display_mode_grid.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/display_mode_grid_act.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/display_mode_list.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/display_mode_list_act.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/display_mode_text.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/display_mode_text_act.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/drop.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/dynfocus.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/ecmoban.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/ecshop_logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/footerLine.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/foucsBg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/goods_id_ASC.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/goods_id_DESC.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/goods_id_default.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/goumai.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/goumai2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/h3title.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/header_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/help1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/help2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/help3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/help4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/help5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/helpTitBg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/helpTitbg1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/help_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/inputbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/itemH2Bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/jiesuan.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/last_update_ASC.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/last_update_DESC.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/last_update_default.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/left_h3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/left_help_biao.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/lineBg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/linklogo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/logo.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/logo1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/logo222222.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/menuBg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/meun_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/more.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/moreBrands.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/msn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/nav_bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/newart_tit.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/note.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/page01.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/page02.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/page03.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/page04.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/picture_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/qq_1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/qq_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/salesBg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/salesGoodBg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/salesTitBg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/screenshot.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/searchBg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/search_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/shop_price_ASC.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/shop_price_DESC.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/shop_price_default.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/shoucang.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/shoucang2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/shuomin.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/shuomin.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/siderIM_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/siderIM_bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/siderIM_infobox.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/siderIM_title.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/sousuo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/stars0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/stars1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/stars2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/stars3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/stars4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/stars5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/tel.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/tit.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/tit1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/tit3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/tit_best_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/tit_best_r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/tit_hot_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/tit_hot_r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/tit_hot_r.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/tit_new_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/tit_new_r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/tit_sale_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/top10_1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/top10_tit.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/top2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/topNavBg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/topNavR.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/top_1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/top_10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/top_2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/top_3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/top_4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/top_5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/top_6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/top_7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/top_8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/top_9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/tuijian.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/u1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/u10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/u11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/u12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/u13.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/u14.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/u2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/u3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/u4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/u5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/u6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/u7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/u8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/u9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/uh_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/ur_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/ur_bg1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/user_tit1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/user_tit2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/user_tit3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/xml_rss2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/yahoo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/zoom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/评价.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/20121018-174034-58977.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/20121018-174034-97960.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/20121018-174248-28718.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/20121018-174248-87501.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/20121018-174346-31424.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/20121018-174346-54660.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/20121018-174455-10118.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/20121018-174455-91962.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/admin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/admin_p.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/bt_login.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/header_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/header_left.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/header_right.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/login_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/login_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/login_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/login_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/login_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/login_6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/menu_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/menu_bt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/menu_icon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/shadow_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/title_bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/title_bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/user_all_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/user_bottom_c.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/user_bottom_l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/user_bottom_r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/user_botton.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/user_login_name.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/user_login_password.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/user_login_validatecode.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/user_main_c.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/user_main_l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/user_main_r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/user_top_c.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/user_top_l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/img/user_top_r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/data/testdrive.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/xinde.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/css/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/css/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/css/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/jquery.fancybox-1.3.1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/fancybox/jquery.fancybox-1.3.1.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/jquery.tooltip-1.2.6.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2d0c1a37/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/autocomplete/jquery.autocomplete.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.ajaxqueue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.autocomplete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.ba-bbq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.ba-bbq.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.bgiframe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.history.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.maskedinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.maskedinput.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.metadata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.multifile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.treeview.async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.treeview.edit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.treeview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.yii.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.yiiactiveform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jquery.yiitab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/jquery-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/jquery.ui.accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/jquery.ui.autocomplete.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/jquery.ui.button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/jquery.ui.core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/jquery.ui.datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/jquery.ui.dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/jquery.ui.menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/jquery.ui.progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/jquery.ui.resizable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/jquery.ui.selectable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/jquery.ui.slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/jquery.ui.spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/jquery.ui.tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/jquery.ui.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/css/base/jquery.ui.tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/js/jquery-ui-i18n.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/jui/js/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/punycode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/punycode.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/rating/jquery.rating.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/treeview/jquery.treeview.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bd25fb82/yiitab/jquery.yiitab.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/a.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/category.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/controlbar.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/ecshop_logo.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/flow.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/goods.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/online.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/pa.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/qq.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/transport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/user.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/default/img/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/css/admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/houtai/css/mine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/action.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/compare.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/cycle_image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/mzp-packed-me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/region.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/shopping_flow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/showdiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/transport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery-3.2.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/components/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/components/UserIdentity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/config/Constents.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/config/console.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/config/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/config/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/controllers/SiteController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/controllers/UserController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/data/schema.mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/data/schema.sqlite.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/models/ContactForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/models/LoginForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/houtai/HoutaiModule.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/houtai/controllers/DefaultController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/houtai/controllers/IndexController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/houtai/controllers/UserController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/houtai/views/default/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/houtai/views/index/head.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/houtai/views/index/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/houtai/views/index/left.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/houtai/views/index/right.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/houtai/views/user/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/runtime/application.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/runtime/gii-1.1.13/ModuleCode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/tests/WebTestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/tests/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/tests/functional/SiteTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/tests/phpunit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/layouts/buju.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/layouts/column1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/layouts/column2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/layouts/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/site/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/site/error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/site/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/site/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/site/pages/about.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/user/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/user/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/user/register.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/user/ttest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/yiic" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/yiic.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/yiic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/classic/views/.htaccess" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/houtai/views/index/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/controllers/UserController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <marker date="1500823536672" expanded="true" signature="331:352" ph="select * fro... student" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="74" column="21" lean-forward="false" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ttest.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/protected/views/user/ttest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="166" column="10" lean-forward="true" selection-start-line="166" selection-start-column="10" selection-end-line="166" selection-end-column="10" />
+              <folding>
+                <element signature="e#62#81#0#PHP" expanded="true" />
+                <element signature="e#3216#3333#0#PHP" expanded="false" />
+                <element signature="e#4053#4087#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserIdentity.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/components/UserIdentity.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constents.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/config/Constents.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>./images/</find>
+      <find>../img/</find>
+      <find>'</find>
+      <find>css/</find>
+      <find>./css/</find>
+      <find>./img/</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>&lt;?php echo CSS_URL; ?&gt;</replace>
+      <replace>&lt;?php echo _URL; ?&gt;</replace>
+      <replace>&lt;?php echo HOUTAI_ING;?&gt;</replace>
+      <replace>&quot;</replace>
+      <replace>&lt;?php echo HOUTAI_CSS;?&gt;</replace>
+      <replace>&lt;?php echo HOUTAI_IMG;?&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/protected/components/Controller.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/assets/default/css/style.css" />
+        <option value="$PROJECT_DIR$/protected/views/user/login.php" />
+        <option value="$PROJECT_DIR$/protected/views/user/register.php" />
+        <option value="$PROJECT_DIR$/protected/views/layouts/buju.php" />
+        <option value="$PROJECT_DIR$/protected/modules/houtai/controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/protected/modules/houtai/views/user/login.php" />
+        <option value="$PROJECT_DIR$/protected/modules/houtai/views/index/index.php" />
+        <option value="$PROJECT_DIR$/assets/houtai/css/User_Login.css" />
+        <option value="$PROJECT_DIR$/protected/modules/houtai/views/index/right.php" />
+        <option value="$PROJECT_DIR$/protected/modules/houtai/views/index/left.php" />
+        <option value="$PROJECT_DIR$/protected/modules/houtai/controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/protected/config/Constents.php" />
+        <option value="$PROJECT_DIR$/protected/modules/houtai/views/index/head.php" />
+        <option value="$PROJECT_DIR$/../../lianjie1.php" />
+        <option value="$PROJECT_DIR$/../../chabuduo.php" />
+        <option value="$PROJECT_DIR$/protected/config/main.php" />
+        <option value="$PROJECT_DIR$/protected/controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/protected/views/user/ttest.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xinde" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xinde" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="H:/GIT/Git/bin/git.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\xinjian\xinde\assets\houtai\css" />
+      <recent name="C:\xampp\htdocs\xinjian\xinde\assets\default\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\xinjian\xinde\assets\houtai\img" />
+      <recent name="C:\xampp\htdocs\xinjian\xinde\assets\js" />
+      <recent name="C:\xampp\htdocs\xinjian\xinde\assets\default\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eea4d1a9-f79a-46ae-bc9e-8c7f8a94e945" name="Default" comment="" />
+      <created>1499761635911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499761635911</updated>
+      <workItem from="1499761639522" duration="4540000" />
+      <workItem from="1499840359694" duration="3601000" />
+      <workItem from="1499912308162" duration="7534000" />
+      <workItem from="1500002232092" duration="5767000" />
+      <workItem from="1500256926793" duration="5249000" />
+      <workItem from="1500273634240" duration="10377000" />
+      <workItem from="1500340571364" duration="8065000" />
+      <workItem from="1500355543025" duration="3604000" />
+      <workItem from="1500538212703" duration="6485000" />
+      <workItem from="1500604103340" duration="11139000" />
+      <workItem from="1500820248099" duration="8641000" />
+      <workItem from="1500902577697" duration="1004000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="76006000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11353944" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/houtai/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/houtai/views/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/houtai/views/index/left.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7040">
+          <caret line="352" column="7" lean-forward="false" selection-start-line="352" selection-start-column="7" selection-end-line="352" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/houtai/views/index/right.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1060">
+          <caret line="53" column="8" lean-forward="true" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/houtai/views/index/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/houtai/views/user/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="true" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1500823536672" expanded="true" signature="331:352" ph="select * fro... student" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/layouts/buju.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/houtai/controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1500823536672" expanded="true" signature="331:352" ph="select * fro... student" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/user/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3140">
+          <caret line="157" column="25" lean-forward="true" selection-start-line="157" selection-start-column="25" selection-end-line="157" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="68" column="10" lean-forward="false" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1500823536672" expanded="true" signature="331:352" ph="select * fro... student" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/user/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/site/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/default/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="454" column="49" lean-forward="false" selection-start-line="454" selection-start-column="49" selection-end-line="454" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/user/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/user/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="290" column="0" lean-forward="false" selection-start-line="290" selection-start-column="0" selection-end-line="290" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/layouts/buju.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/houtai/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/houtai/views/user/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="true" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/houtai/css/User_Login.css" />
+    <entry file="file://$PROJECT_DIR$/assets/houtai/css/mine.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/houtai/css/admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1244">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/houtai/controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../chabuduo.php" />
+    <entry file="file://$PROJECT_DIR$/../../lianjie1.php" />
+    <entry file="file://$PROJECT_DIR$/protected/modules/houtai/views/index/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/houtai/views/index/right.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/houtai/views/index/left.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/Constents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/UserIdentity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="74" column="21" lean-forward="false" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/houtai/views/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <marker date="1500823536672" expanded="true" signature="331:352" ph="select * fro... student" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/user/ttest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="166" column="10" lean-forward="true" selection-start-line="166" selection-start-column="10" selection-end-line="166" selection-end-column="10" />
+          <folding>
+            <element signature="e#62#81#0#PHP" expanded="true" />
+            <element signature="e#3216#3333#0#PHP" expanded="false" />
+            <element signature="e#4053#4087#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
